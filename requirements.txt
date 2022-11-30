@@ -1,0 +1,12 @@
+ipython
+keras
+matplotlib
+mtcnn
+natsort
+numpy
+opencv_python
+pandas
+protobuf
+scikit_learn
+seaborn
+tensorflow
